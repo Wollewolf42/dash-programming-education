@@ -21,9 +21,9 @@ Then run the app.py file to start the server
 
 # Screenshots
 
-![Mindmap](Mindmap.PNG)
+![https://github.com/Wollewolf42/dash-programming-education/blob/main/Mindmap.png](https://github.com/Wollewolf42/dash-programming-education/blob/main/Mindmap.png)
 ![Tables](Tables.PNG)
-
+https://github.com/Wollewolf42/dash-programming-education/blob/main/Mindmap.png
 
 # Next Steps
 Connecting the Mindmap with the Tables
