@@ -17,3 +17,7 @@ pip install -r requirements.txt
 
 
 Then run the app.py file to start the server
+
+
+# Screenshots
+
