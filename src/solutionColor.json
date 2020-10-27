@@ -1,0 +1,169 @@
+[{
+    "if": {
+        "filter_query": "{Reinterpret}=3",
+        "column_id": "Reinterpret"
+    },
+    "backgroundColor":"green",
+    "color":"white"
+},{
+    "if": {
+        "filter_query": "{Reinterpret}=2",
+        "column_id": "Reinterpret"
+    },
+    "backgroundColor":"yellow",
+    "color":"black"
+},{
+    "if": {
+        "filter_query": "{Reinterpret}=1",
+        "column_id": "Reinterpret"
+    },
+    "backgroundColor":"red",
+    "color":"white"
+},{
+    "if": {
+        "filter_query": "{Reinterpret}=0",
+        "column_id": "Reinterpret"
+    },
+    "backgroundColor":"grey",
+    "color":"white"
+},{
+    "if": {
+        "filter_query": "{Analogous}=3",
+        "column_id": "Analogous"
+    },
+    "backgroundColor":"green",
+    "color":"white"
+},{
+    "if": {
+        "filter_query": "{Analogous}=2",
+        "column_id": "Analogous"
+    },
+    "backgroundColor":"yellow",
+    "color":"black"
+},{
+    "if": {
+        "filter_query": "{Analogous}=1",
+        "column_id": "Analogous"
+    },
+    "backgroundColor":"red",
+    "color":"white"
+},{
+    "if": {
+        "filter_query": "{Analogous}=0",
+        "column_id": "Analogous"
+    },
+    "backgroundColor":"grey",
+    "color":"white"
+},{
+    "if": {
+        "filter_query": "{Search}=3",
+        "column_id": "Search"
+    },
+    "backgroundColor":"green",
+    "color":"white"
+},{
+    "if": {
+        "filter_query": "{Search}=2",
+        "column_id": "Search"
+    },
+    "backgroundColor":"yellow",
+    "color":"black"
+},{
+    "if": {
+        "filter_query": "{Search}=1",
+        "column_id": "Search"
+    },
+    "backgroundColor":"red",
+    "color":"white"
+},{
+    "if": {
+        "filter_query": "{Search}=0",
+        "column_id": "Search"
+    },
+    "backgroundColor":"grey",
+    "color":"white"
+},{
+    "if": {
+        "filter_query": "{Evaluate}=3",
+        "column_id": "Evaluate"
+    },
+    "backgroundColor":"green",
+    "color":"white"
+},{
+    "if": {
+        "filter_query": "{Evaluate}=2",
+        "column_id": "Evaluate"
+    },
+    "backgroundColor":"yellow",
+    "color":"black"
+},{
+    "if": {
+        "filter_query": "{Evaluate}=1",
+        "column_id": "Evaluate"
+    },
+    "backgroundColor":"red",
+    "color":"white"
+},{
+    "if": {
+        "filter_query": "{Evaluate}=0",
+        "column_id": "Evaluate"
+    },
+    "backgroundColor":"grey",
+    "color":"white"
+},{
+    "if": {
+        "filter_query": "{Implement}=3",
+        "column_id": "Implement"
+    },
+    "backgroundColor":"green",
+    "color":"white"
+},{
+    "if": {
+        "filter_query": "{Implement}=2",
+        "column_id": "Implement"
+    },
+    "backgroundColor":"yellow",
+    "color":"black"
+},{
+    "if": {
+        "filter_query": "{Implement}=1",
+        "column_id": "Implement"
+    },
+    "backgroundColor":"red",
+    "color":"white"
+},{
+    "if": {
+        "filter_query": "{Implement}=0",
+        "column_id": "Implement"
+    },
+    "backgroundColor":"grey",
+    "color":"white"
+},{
+    "if": {
+        "filter_query": "{Document}=3",
+        "column_id": "Document"
+    },
+    "backgroundColor":"green",
+    "color":"white"
+},{
+    "if": {
+        "filter_query": "{Document}=2",
+        "column_id": "Document"
+    },
+    "backgroundColor":"yellow",
+    "color":"black"
+},{
+    "if": {
+        "filter_query": "{Document}=1",
+        "column_id": "Document"
+    },
+    "backgroundColor":"red",
+    "color":"white"
+},{
+    "if": {
+        "filter_query": "{Document}=0",
+        "column_id": "Document"
+    },
+    "backgroundColor":"grey",
+    "color":"white"
+}]
