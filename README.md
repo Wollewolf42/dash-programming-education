@@ -21,3 +21,9 @@ Then run the app.py file to start the server
 
 # Screenshots
 
+![Mindmap](Mindmap.PNG)
+![Tables](Tables.PNG)
+
+
+# Next Steps
+Connecting the Mindmap with the Tables
